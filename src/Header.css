@@ -5,10 +5,13 @@
     background-color: white;
     justify-content: space-evenly;
     border-bottom: 0.1px solid lightgray;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     width: 100%; 
     z-index: 999;
+}
+.header_logo{
+    border-radius: 5px;
 }
 .header__left{
     display: flex;

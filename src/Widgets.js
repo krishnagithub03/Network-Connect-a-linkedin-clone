@@ -17,14 +17,14 @@ const Widgets = () => {
   return (
     <div className='widgets'>
       <div className="widgets__header">
-        <h2>Linkedin News</h2>
+        <h2>NetCON News</h2>
         <InfoIcon />
       </div>
-      {newsArticle("#KrishCodes4Life",'This is a LinkedIn Clone Using React and Redux')}
+      {newsArticle("#KrishCodes4Life",'This is a Networking Platform Using React and Redux')}
       {newsArticle("Elon Musk",'He might go to moon on his cybertruck')}
       {newsArticle("KrishCodes",'Krishna Will add more features to this project')}
       {newsArticle("Leo Messi",'Leo just won his 8th Ballon dor')}
-      {newsArticle("#KrishCodes4Life",'This is a LinkedIn Clone Using React and Redux')}
+      {newsArticle("#KrishCodes4Life",'This is a Networking Platform Using React and Redux')}
       {newsArticle("Elon Musk",'He might go to moon on his cybertruck')}
       {newsArticle("KrishCodes",'Krishna Will add more features to this project')}
       {newsArticle("Leo Messi",'Leo just won his 8th Ballon dor')}

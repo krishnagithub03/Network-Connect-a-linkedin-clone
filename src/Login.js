@@ -50,7 +50,7 @@ const Login = () => {
   }
   return (
     <div className='login'>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1024px-LinkedIn_Logo.svg.png" alt="" />
+    <img src="/netcon-main.jpg" alt=""/>
     <form>
       <input type="text" placeholder='Full Name (Req. if registering)' value={name} onChange={(e)=> setName(e.target.value)} />
 

@@ -8,9 +8,10 @@
 }
 .login > img{
     object-fit: contain;
-    height: 70px;
+    height: 80px;
     margin-top: 20px;
     margin-bottom: 20px;
+    mix-blend-mode: multiply;
 }
 .login > form{
     display: flex;
